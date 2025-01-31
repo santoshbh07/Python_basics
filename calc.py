@@ -1,0 +1,6 @@
+first_number = int(input("What's the first number?: "))
+print("+")
+print("-")
+print("*")
+print("/")
+operation = input("Pick and operation: ")
